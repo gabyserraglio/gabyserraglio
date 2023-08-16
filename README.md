@@ -3,7 +3,9 @@
 - Meu nome é gabrielly
 - 
 - estou estudando na [alura](https://www.alura.com.br)
+- 
 - estou me desenvolvendo na linguagem javascript
+- 
 - utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 -
 - ### você entrar  em contato comigo📫
@@ -12,5 +14,4 @@
 -
 -@gabrielly.eninger
 -
--!{}(https://media.tenor.com/K9VuwIdQ1cQAAAAd/biker-girl.gif)
--
+-![](https://media.tenor.com/Ol6ijjkfIicAAAAC/moto-garupa.gif)
